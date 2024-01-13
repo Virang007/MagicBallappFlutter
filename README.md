@@ -2,6 +2,10 @@
 
 A new Flutter project.
 
+![Phone Screenshot 1 (2)](https://github.com/Virang007/MagicBallappFlutter/assets/104147123/e7ff8999-05ba-42ac-bc97-5d441340be5e)![Phone Screenshot 2 (1)](https://github.com/Virang007/MagicBallappFlutter/assets/104147123/3bc70017-6ad3-4fe2-880e-b6caab82624a)
+
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
