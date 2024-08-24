@@ -1,20 +1,22 @@
-# magicball Flutter app
+# MagicBall Flutter App
 
-A new Flutter project.
+A new Flutter project for a Magic Ball application. This app simulates a magic 8-ball toy, which provides answers to yes-or-no questions.
 
-![Phone Screenshot 1 (2)](https://github.com/Virang007/MagicBallappFlutter/assets/104147123/e7ff8999-05ba-42ac-bc97-5d441340be5e)![Phone Screenshot 2 (1)](https://github.com/Virang007/MagicBallappFlutter/assets/104147123/3bc70017-6ad3-4fe2-880e-b6caab82624a)
+## Screenshots
 
+Here are some screenshots of the MagicBall app:
 
+<img src="https://github.com/Virang007/MagicBallappFlutter/assets/104147123/e7ff8999-05ba-42ac-bc97-5d441340be5e" alt="MagicBall Screenshot 1" width="300" />
+
+<img src="https://github.com/Virang007/MagicBallappFlutter/assets/104147123/3bc70017-6ad3-4fe2-880e-b6caab82624a" alt="MagicBall Screenshot 2" width="300" />
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a starting point for a Flutter application. To get started, follow these steps:
 
-A few resources to get you started if this is your first Flutter project:
+1. **Install Flutter:**
+   Follow the [installation guide](https://docs.flutter.dev/get-started/install) to set up Flutter on your machine.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+2. **Clone the Repository:**
+   ```bash
+   git clone https://github.com/Virang007/MagicBallappFlutter.git
